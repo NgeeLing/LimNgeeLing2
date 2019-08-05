@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lim Ngee Ling</string>
+    <string name="entry_req">Entry Qualification</string>
+    <string name="SPM">SPM</string>
+    <string name="olevel">O Level</string>
+    <string name="uec">UEC</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="spm_req">SPM qualification</string>
+    <string name="req1">At least 5 Grade C in the relevant subjects, and At least Grade C in English Language and Bahasa Malaysia, and At least Grade B in Mathematics</string>
+    <string name="req">At least 5 Grade C in the relevant subjects, and At least C in English Language, and At least Grade C in Mathematics</string>
+    <string name="req2">At least 3 Grade B, and At least Grade C in English, and At least Grade B in Mathematics</string>
+
+</resources>
